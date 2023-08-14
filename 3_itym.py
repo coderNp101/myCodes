@@ -1,4 +1,5 @@
-
+#This program is based on a research paper idea...
+#To see the problem visit: sumiransubedi.com.np/Pics/Itym.png
 
 from math import floor
 from math import log2
